@@ -28,18 +28,23 @@
 
 ## Sobre o Projeto
 
+WIP!
+
 Introdução aos serviços da Google Cloud Platform!
 
 <!-- ROADMAP OF PROJECT -->
 
 ## ROADMAP
 
-- [Introdução](link-primeira-parte)
+- [Introdução](1-Introducao/1.1-Introducao.md)
+  - [Conceitos](1-Introducao/1.2-Conceitos.md)
+  - [Regiões](link-sub-conteudo)
   - [Google Cloud SDK](link-sub-conteudo)
   - [IAM](link-quarta-parte)
 - [Serviços](link-segunda-parte)
   - [Hosting de Aplicações](link-sub-conteudo)
   - [Banco de Dados](link-sub-conteudo)
+  - [CI/CD](link-sub-conteudo)
   - [IoT](link-sub-conteudo)
   - [Big Data](link-quinta-parte)
 - [Hosting de Aplicações](link-terceira-parte)
@@ -55,6 +60,8 @@ Introdução aos serviços da Google Cloud Platform!
   - [Cloud Spanner](link-sub-conteudo)
   - [Cloud Datastore](link-sub-conteudo)
   - [Cloud Datastore](link-sub-conteudo)
+- [CI/CD](link-quarta-parte)
+  - [Cloud Build](link-sub-conteudo)
 - [IoT](link-quinta-parte)
   - [Cloud IoT Core](link-sub-conteudo)
 - [Big Data](link-quinta-parte)
