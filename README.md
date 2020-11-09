@@ -11,7 +11,7 @@
 <p align="center">
   <h2 align="center">Google Cloud Platform 4noobs</h2>
 
-  <h1 align="center"><img src=".github/gcp.png" alt="Imagem da linguagem" width="120"></h1>
+  <h1 align="center"><img src=".github/gcp.png" alt="Imagem da linguagem" width="360"></h1>
   
   <p align="center">
     <br />
