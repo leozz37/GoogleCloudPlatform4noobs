@@ -59,7 +59,6 @@ Introdução aos serviços da Google Cloud Platform!
   - [Cloud Bigtable](link-sub-conteudo)
   - [Cloud Spanner](link-sub-conteudo)
   - [Cloud Datastore](link-sub-conteudo)
-  - [Cloud Datastore](link-sub-conteudo)
 - [CI/CD](link-quarta-parte)
   - [Cloud Build](link-sub-conteudo)
 - [IoT](link-quinta-parte)
