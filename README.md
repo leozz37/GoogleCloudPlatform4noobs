@@ -38,8 +38,8 @@ Introdução aos serviços da Google Cloud Platform!
 
 - [Introdução](1-Introducao/1.1-Introducao.md)
   - [Conceitos](1-Introducao/1.2-Conceitos.md)
-  - [Regiões](link-sub-conteudo)
   - [Google Cloud SDK](link-sub-conteudo)
+  - [Criando um Projeto](link)
   - [IAM](link-quarta-parte)
 - [Serviços](link-segunda-parte)
   - [Hosting de Aplicações](link-sub-conteudo)
