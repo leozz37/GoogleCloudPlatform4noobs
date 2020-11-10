@@ -38,7 +38,7 @@ Introdução aos serviços da Google Cloud Platform!
 
 - [Introdução](1-Introducao/1.1-Introducao.md)
   - [Conceitos](1-Introducao/1.2-Conceitos.md)
-  - [Google Cloud SDK](1-Introducao/1.2-SDK.md)
+  - [Google Cloud SDK](1-Introducao/1.3-SDK.md)
   - [Criando um Projeto](link)
   - [IAM](link-quarta-parte)
 - [Serviços](link-segunda-parte)
