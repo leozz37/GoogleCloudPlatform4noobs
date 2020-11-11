@@ -1,11 +1,11 @@
-package helloheart
+package helloworld
 
 import (
 	"fmt"
 	"net/http"
 )
 
-// HelloGet is an HTTP Cloud Function.
+// HelloHeart is an HTTP Cloud Function.
 func HelloHeart(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprint(w, "Hello, World!")
+	fmt.Fprint(w, "Hello, He4rt!")
 }
