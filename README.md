@@ -30,7 +30,11 @@
 
 WIP!
 
-Introdução aos serviços da Google Cloud Platform!
+Introdução aos serviços da Google Cloud Platform! Esse é um guia prático, onde você vai aprender fazendo. Eu
+adotei o Golang como a linguagem usada para os exemplos aqui, mas fique a vontade de criar os seus próprios.
+
+Você não precisa necessariamente acompanhar TODOS os guias, mas recomendo que você leia a [introdução](1-Introducao/1.1-Introducao.md)
+e a descrição de cada módulo.
 
 <!-- ROADMAP OF PROJECT -->
 
